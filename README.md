@@ -2,8 +2,7 @@
 Jupyter (Google Colab) notebook and model definition for Facebook Udacity Pytorch Challenge project
 
 ## Scholarship Challenge
-You can read more about the scholarship challenge at the link below:
-https://www.udacity.com/facebook-pytorch-scholarship
+You can read more about the [scholarship challenge](https://www.udacity.com/facebook-pytorch-scholarship) and the [rubric for this challenge (requires udacity login)](https://review.udacity.com/#!/rubrics/1663/view) via the provided links.
 
 ## Assignment
 The assignment is to build a neural network to perform image classification, specifically, to identify flower species from photos of flowers passed in to the model. Udacity provided the image set on which I trained the model. 
