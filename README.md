@@ -1,7 +1,9 @@
-# udacity_pytorch_challenge
+# Facebook Udacity PyTorch Challenge
 Jupyter (Google Colab) notebook and model definition for Facebook Udacity Pytorch Challenge project
 
-The purpose of this repository is to house the assets for my Udacity PyTorch Challenge project. 
+## Scholarship Challenge
+You can read more about the scholarship challenge at the link below:
+https://www.udacity.com/facebook-pytorch-scholarship
 
 ## Assignment
 The assignment is to build a neural network to perform image classification, specifically, to identify flower species from photos of flowers passed in to the model. Udacity provided the image set on which I trained the model. 
@@ -14,9 +16,10 @@ After I trained the model, I saved a checkpoint so that I wouldn't have to retra
 ```
 trained_vgg16_classifier.pt
 ```
-
 ## Model output
 The assignment was to construct a function that could take in an image and a model and produce the five most likely flower species along with the probabilities of each. I also prepared a more user-friendly version of the output so that the user can see:
 * the passed-in image
 * a bar graph with the most likely flower species and their probabilities
 * text labels for the species names instead of the key values for them on which the model trained.
+
+#pytorchudacityscholar
