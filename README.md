@@ -22,4 +22,7 @@ The assignment was to construct a function that could take in an image and a mod
 * a bar graph with the most likely flower species and their probabilities
 * text labels for the species names instead of the key values for them on which the model trained.
 
+## A note about GPUs
+You can run this model on any PC, but it will take a considerable amount of time if you run on a machine that has only a CPU. Google Colab offers access to GPUs, which you can activate from the menu Edit > Notebook Settings
+
 #pytorchudacityscholar
