@@ -12,7 +12,7 @@ I used a pretrained neural network optimized for the identification of features 
 ## Checkpoint
 After I trained the model, I saved a checkpoint so that I wouldn't have to retrain the model every time I went back to the notebook. That file also is stored in this repo so that you can load it yourself: 
 ```
-'trained_vgg16_classifier.pt'
+trained_vgg16_classifier.pt
 ```
 
 ## Model output
